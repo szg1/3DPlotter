@@ -1,5 +1,5 @@
 # surfaces
-z = 3*cos(2*x) + 2*y
+z = sin(x)+cos(y) 
 
 # constraints
 x >= 0
